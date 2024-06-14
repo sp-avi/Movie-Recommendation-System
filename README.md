@@ -25,7 +25,7 @@ recommend_movies("Eternals", nn_data, orig_data)
 ## Conclusion
 This project demonstrates how to create a movie recommendation system using machine learning techniques. The system can be extended to include more advanced features and algorithms to improve its accuracy and user experience.
 
-##Future Work
+## Future Work
 Improve the accuracy of the recommendation models: This can be achieved by incorporating more features, such as user demographics and movie reviews.
 Expand the dataset: The system can be expanded to include more movies and users to improve its accuracy and coverage.
 Implement a user interface: A user interface can be implemented to allow users to input their preferences and view the recommended movies.
